@@ -40,7 +40,7 @@ public class GitHubSample {
     }
 
     public static void main(String[] args) {
-        System.out.println(romanToInteger("CMIV"));
+        System.out.println(romanToInteger("CMMIV"));
     }
 
 }
